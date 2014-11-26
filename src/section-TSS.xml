@@ -129,7 +129,7 @@ x_2,\,x_5,\,x_6,\,x_7\in\complex{\null}
 
 <p>The condition that $x_2,\,x_5,\,x_6,\,x_7\in\complex{\null}$ is how we specify that the variables $x_2,\,x_5,\,x_6,\,x_7$ are <q>free</q> to assume any possible values.</p>
 
-<p>This systematic approach to solving a system of equations will allow us to create a precise description of the solution set for any consistent system once we have found the reduced row-echelon form of the augmented matrix.  It will work just as well when the set of free variables is empty and we get just a single solution.  And we could program a computer to do it!  Now have a whack at Archetype J (<acroref type="exercise" acro="TSS.T10" />), mimicking the discussion in this example.  We'll still be here when you get back.</p>
+<p>This systematic approach to solving a system of equations will allow us to create a precise description of the solution set for any consistent system once we have found the reduced row-echelon form of the augmented matrix.  It will work just as well when the set of free variables is empty and we get just a single solution.  And we could program a computer to do it!  Now have a whack at Archetype J (<acroref type="exercise" acro="TSS.C10" />), mimicking the discussion in this example.  We'll still be here when you get back.</p>
 
 </example>
 
@@ -442,7 +442,7 @@ column sep=0em, text height=1.5ex, text depth=0.25ex]
 
 <proof>
 <p>Suppose that the augmented matrix of the system of equations is row-equivalent to $B$, a matrix in reduced row-echelon form with $r$ nonzero rows.
-Because $B$ has $m$ rows in total, the number that are nonzero rows is less.  In other words, $r\leq m$.
+Because $B$ has $m$ rows in total, the number of nonzero rows is less than or equal to $m$.  In other words, $r\leq m$.
 Follow this with the hypothesis that $n>m$ and we find that the system has a solution set described by at least one free variable because
 <equation>
 n-r\geq n-m>0.

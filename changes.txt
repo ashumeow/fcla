@@ -1,14 +1,23 @@
-v3.21 2014/xx/xx
+vX.XX 2014/XX/XX
+~~~~~~~~~~~~~~~~
+Typo: Example LIP4, sign on  2\alpha_{3}x^2  term, twice (Albert Schueller)
+Change: Theorem CMVEI, proof incorrect about r < m (Mike Taper)
+
+v3.30 2014/08/27
 ~~~~~~~~~~~~~~~~
 New: Exercise OD.T30, proof for product of upper triangular matrices
 Edit: Clarified part of Solution LISS.C25 (Riley Carpenter)
 Edit: Grammar - many contractions and hyphens surveyed, possibly adjusted
+Edit: Clarification in Proof Technique D (Voornaam "Marc" Achternaam)
 Typo: Theorem SMS, Definition SYM, not SM (Nathan Laviste)
 Typo: Five minor mistakes in Section FS (Sam Coates)
 Typo: Example MCSM, "pivoot" (Trenten Tollen)
 Typo: LaTeX/XML formatting, Solution TSS.T11 now in a knowl (Adam Frank)
 Typo: Chapter SLE, seven typos (Adam Frank)
 Typo: Section WILA, "studies" to "studied" (Balachandran S)
+Typo: Example ISSI, reference should be Exercise TSS.C10 (MSK)
+Typo: Sage ANC, "scalr", and nearby, corrected (Arnold Lebow)
+Typo: Example NSR, replace original matrix by the correct one (Wes Garrett)
 Change: Reworded Exercise NM.T12 so statement is true (Adam Frank)
 
 v3.20 2013/12/28
